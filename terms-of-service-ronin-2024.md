@@ -13,7 +13,7 @@
 
 - **You may use `Ronin` for lawful purposes only.**
 - **You must not misuse the bot or use it for any illegal activities.**
-- **By using this bot, you acknowledge and agree that `Ronin` will collect and use message intents and presence intents data.**
+- **By using this bot, you acknowledge and agree that `Ronin` will collect and use `message intents` and `presence intents data`.**
 
 ## User Accounts
 **If our bot requires account creation, you are responsible for maintaining the confidentiality of your account and for all activities that occur under your account.**
