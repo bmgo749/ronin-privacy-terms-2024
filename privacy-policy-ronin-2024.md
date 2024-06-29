@@ -5,9 +5,9 @@
 
 - **Usernames**
 - **User IDs**
-- **Messages sent to the bot (Message Contents)**
+- **Messages sent to the bot `(Message Contents)`**
 - **User activity within the server**
-- **Presence information (e.g., online status, activity status)**
+- **Presence information `(e.g., online status, activity status)`**
 
 ## Purpose of Data Collection
 **The data is collected for the following purposes:**
@@ -20,7 +20,7 @@
 ### The data is stored in a secure database. Access to the data is restricted to the bot developers only.
 
 ## Data Sharing
-- **We do not share your data with third parties.**
+- **`We do not share your data with third parties`.**
 
 ## User Rights
 **You have the right to:**
