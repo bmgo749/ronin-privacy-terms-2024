@@ -5,7 +5,7 @@
 
 - **Usernames**
 - **User IDs**
-- **Messages sent to the bot**
+- **Messages sent to the bot (Message Contents)**
 - **User activity within the server**
 - **Presence information (e.g., online status, activity status)**
 
@@ -15,6 +15,7 @@
 - **To provide appropriate responses from the bot**
 - **To develop and improve the bot**
 - **Data Storage and Protection**
+- **To analyze message contents for better interaction and functionality**
 
 ### The data is stored in a secure database. Access to the data is restricted to the bot developers only.
 
